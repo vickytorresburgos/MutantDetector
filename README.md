@@ -23,7 +23,7 @@ Este proyecto utiliza:
 
 1. **Clona el repositorio**:
  
-   git clone <git@github.com:vickytorresburgos/MutantDetector.git>
+   git clone git@github.com:vickytorresburgos/MutantDetector.git
    
    cd MutantDetector
 
